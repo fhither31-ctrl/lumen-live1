@@ -1,0 +1,13 @@
+{
+  "bibles": [
+    {
+      "id": "demo-es",
+      "name": "Demo Biblia Español",
+      "language": "Español",
+      "abbreviation": "DEMO",
+      "license": "Libre",
+      "local": true,
+      "file": "/bibles/demo_es.json"
+    }
+  ]
+}

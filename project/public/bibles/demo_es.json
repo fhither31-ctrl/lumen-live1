@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "name": "Demo Biblia Español",
+    "abbreviation": "DEMO",
+    "language": "Español"
+  },
+  "books": [
+    {
+      "name": "Juan",
+      "chapters": [
+        [
+          "Porque de tal manera amó Dios al mundo.",
+          "Para que todo aquel que en él cree, no se pierda."
+        ]
+      ]
+    }
+  ]
+}
